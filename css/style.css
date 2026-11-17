@@ -32,3 +32,12 @@ header{
     color:white;
     margin-right: 10px;
 }
+nav{
+    padding:2% 6%;
+}
+nav a{
+    text-decoration: none;
+    margin-right: 50px;
+    color:rgb(66, 62, 62);
+    font-family: 'Poppins', sans-serif;
+}
